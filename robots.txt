@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salah-kotb.netlify.app/sitemap.xml
